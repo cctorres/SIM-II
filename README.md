@@ -12,4 +12,4 @@ Se implementarán los siguientes Modelos para un problema de Clasificacion
 - Maquinas de Soporte Vectorial
 
 Para poder ejecutar el codigo se debe abrir el archivo  "SIM_II_PF.ipynb"
-  - Ejecutar cada uno de los cuadros de codigo de forma secuencial a como esta en el Google Colab
+  - Ejecutar cada uno de los cuadros de codigo de forma secuencial a como está en el Google Colab
