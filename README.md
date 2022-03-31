@@ -10,3 +10,6 @@ Se implementarán los siguientes Modelos para un problema de Clasificacion
 - Gradient Boosting Tree
 - Redes Neuronales Artificiales
 - Maquinas de Soporte Vectorial
+
+Para poder ejecutar el codigo se debe abrir el archivo  "SIM_II_PF.ipynb"
+  - Ejecutar cada uno de los cuadros de codigo de forma secuencial a como esta en el Google Colab
